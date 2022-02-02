@@ -1,0 +1,3 @@
+# Practica2
+...
+mi primer proyecto, es solo un texto sabes?
